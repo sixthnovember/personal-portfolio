@@ -1,0 +1,60 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+
+.project-card {
+  background-color: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 20px;
+  width: 100%;
+  max-width: 600px;
+  text-align: left;
+  position: relative;
+  transition: box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.project-title {
+  margin-top: 0;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.project-description {
+  margin: 10px 0;
+}
+
+.project-tags {
+  margin: 10px 0;
+}
+
+.tag {
+  background-color: #f7bd2a;
+  color: black;
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.tag:hover {
+  background-color: black;
+  color: white;
+}
+
+.project-github-link {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 1.5em;
+  color: #f7bd2a;
+}
+
+.project-github-link:hover {
+  color: black;
+}

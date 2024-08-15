@@ -1,0 +1,88 @@
+{
+  "projects": [
+    {
+      "title": "Bachelor Thesis Project (Coming soon!)",
+      "tags": ["Python", "Data Visualization", "HTML", "CSS", "Numpy", "Pandas", "Plotly", "Matplotlib"],
+      "github": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "description": "Software tool for the visualization and evaluation of sampling methods in higher dimensions."
+    },
+    {
+      "title": "Personal website",
+      "tags": ["React", "HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/sixthnovember/personal-portfolio",
+      "description": "Personal website to display projects, skills and contact details."
+    },
+    {
+      "title": "Memory Card Game",
+      "tags": ["Angular", "HTML", "CSS", "TypeScript"],
+      "github": "https://github.com/sixthnovember/MemoryCardGame",
+      "description": "Basic memory card game (with 8 pairs)."
+    },
+    {
+      "title": "Hospital Management System",
+      "tags": ["Node.js", "Express", "MongoDB", "Angular", "HTML", "CSS", "JavaScript", "TypeScript", "Tailwind.css"],
+      "github": "https://github.com/sixthnovember/Hospital-Management-System",
+      "description": "Hospital Management System that helps manage doctors, nurses, patients, and their associated data."
+    },
+    {
+      "title": "Sales Dashboard",
+      "tags": ["Python", "Pandas", "Taipy"],
+      "github": "https://github.com/sixthnovember/Sales-Dashboard",
+      "description": "Sales Dashboard that allows users to filter sales data by region, category, and segment, and visualizes the results."
+    },
+    {
+      "title": "Treasure Hunt Client",
+      "tags": ["Java", "Spring", "Unit Testing"],
+      "github": "https://github.com/sixthnovember/Treasure-Hunt-Client",
+      "description": "Client for the Software Engineering project of a Treasure Hunt game."
+    },
+    {
+      "title": "Treasure Hunt Server",
+      "tags": ["Java", "Spring", "Unit Testing"],
+      "github": "https://github.com/sixthnovember/Treasure-Hunt-Server",
+      "description": "Server for the Software Engineering project of a Treasure Hunt game."
+    },
+    {
+      "title": "Pandas-Profiling",
+      "tags": ["Python", "Streamlit", "Pandas", "Data Analysis"],
+      "github": "https://github.com/sixthnovember/Pandas-Profiling",
+      "description": "Web application for generating detailed profiling reports of datasets."
+    },
+    {
+      "title": "PDF Text Extractor",
+      "tags": ["Python", "Tkinter"],
+      "github": "https://github.com/sixthnovember/PDF-Text-Extractor",
+      "description": "Allows users to extract text from PDF files and save it to a .txt file."
+    },
+    {
+      "title": "YouTube Video Sorter",
+      "tags": ["JavaScript", "Browser Extension"],
+      "github": "https://github.com/sixthnovember/VideoSorter",
+      "description": "A browser extension that automatically sorts the videos in the Watch Later playlist based on their duration."
+    },
+    {
+      "title": "Airport Security System",
+      "tags": ["Python", "Flask", "Docker", "Google Cloud Platform"],
+      "github": "https://github.com/sixthnovember/Airport-Security-System",
+      "description": "Project for Assignment 1 of the Cloud Computing course."
+    },
+    {
+      "title": "Heat Equation",
+      "tags": ["C++", "MPI"],
+      "github": "https://github.com/sixthnovember/Heat-equation",
+      "description": "Parallel version for solving heat equation using MPI."
+    },
+    {
+      "title": "Music Search App",
+      "tags": ["Java", "Android"],
+      "github": "https://github.com/sixthnovember/MusicSearch",
+      "description": "The aim of the app is to query the relevant metadata about an artist and their albums from the database and display them to the user."
+    },
+    {
+      "title": "Separate Chaining",
+      "tags": ["C++"],
+      "github": "https://github.com/sixthnovember/SeparateChaining",
+      "description": "Custom implementation of a hash set, using separate chaining to handle collisions."
+    }
+  ]
+}

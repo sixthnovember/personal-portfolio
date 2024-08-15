@@ -1,0 +1,25 @@
+.projects {
+  text-align: center;
+  padding: 20px;
+}
+
+.filter-container {
+  margin: 20px 0;
+}
+
+.react-select-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.project-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.projects h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 10px;
+}

@@ -1,0 +1,20 @@
+.navbar-nav {
+  text-align: center;
+  width: 100%;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.3em;
+  padding: 10px 15px;
+  color: black;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f7bd2a;
+}
+
+.navbar-nav .nav-link.active {
+  color: #f7bd2a;
+  text-decoration: underline;
+}

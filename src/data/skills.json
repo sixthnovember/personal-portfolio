@@ -1,0 +1,50 @@
+{
+  "skills": {
+    "Programming Languages": {
+      "Python": 90,
+      "Java": 80,
+      "C++": 70,
+      "JavaScript": 70
+    },
+    "Databases": {
+      "MySQL": 60,
+      "MongoDB": 50
+    },
+    "Libraries": {
+      "Numpy": 85,
+      "scikit-learn": 80,
+      "Plotly": 80, 
+      "Pandas": 75, 
+      "Matplotlib": 70
+    },
+    "Frameworks": {
+      "Streamlit": 90,
+      "React": 70,
+      "Bootstrap": 70,
+      "Flask": 70,
+      "Django": 60, 
+      "Angular": 60,
+      "Node.js": 60
+    },
+    "Developer Tools": {
+      "Git": 90,
+      "Visual Studio Code": 90,
+      "Eclipse": 90,
+      "PyCharm": 70,
+      "IntelliJ": 70,
+      "Docker": 70,
+      "Google Cloud Platform": 60
+    },
+    "Office": {
+      "Markdown": 90,
+      "Microsoft Office": 80,
+      "LaTeX": 70
+    },
+    "Languages": {
+      "German": 90,
+      "English": 80,
+      "Japanese": 30,
+      "Finnish": 10
+    }
+  }
+}
