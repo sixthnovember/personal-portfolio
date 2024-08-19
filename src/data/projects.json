@@ -7,6 +7,12 @@
       "description": "Software tool for the visualization and evaluation of sampling methods in higher dimensions."
     },
     {
+      "title": "File Renamer",
+      "tags": ["Python", "Tkinter"],
+      "github": "https://github.com/sixthnovember/File-Renamer",
+      "description": "GUI tool that allows users to rename multiple files at once."
+    },
+    {
       "title": "Personal website",
       "tags": ["React", "HTML", "CSS", "JavaScript"],
       "github": "https://github.com/sixthnovember/personal-portfolio",
