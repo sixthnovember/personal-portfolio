@@ -1,9 +1,9 @@
 {
   "projects": [
     {
-      "title": "Bachelor Thesis Project (Coming soon!)",
+      "title": "Bachelor Thesis Project",
       "tags": ["Python", "Data Visualization", "HTML", "CSS", "Numpy", "Pandas", "Plotly", "Matplotlib"],
-      "github": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "github": "https://github.com/sixthnovember/bachelor-thesis",
       "description": "Software tool for the visualization and evaluation of sampling methods in higher dimensions."
     },
     {
